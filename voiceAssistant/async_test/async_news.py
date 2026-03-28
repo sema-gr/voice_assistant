@@ -18,4 +18,4 @@ async def main():
     print(f"Данні отримані: {results}")
     end_time = time.time()
     print(f"загальний час виконання: {end_time - start_time}")
-asyncio.run(main())                      
+asyncio.run(main())
